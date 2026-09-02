@@ -6,14 +6,22 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.38
+### FFX Player 1.0.39
 
-[Baixar o instalador diretamente](https://github.com/tecmabeinformatica/ffx-player-releases/raw/refs/heads/main/FFXPlayer-Setup-1.0.38.exe)
+[Baixar o instalador diretamente](https://github.com/tecmabeinformatica/ffx-player-releases/raw/refs/heads/main/FFXPlayer-Setup-1.0.39.exe)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `CD64D81ECEB752DBC5379F215D8708AFAF219A1EF40CE3D6528A0ED79702CE78`
+- SHA-256: `D21C4C491BFF599230E3F5DF98C137B2CF7B23FEF5840ED1E60E805A827253B2`
+
+## Novidades da versão 1.0.39
+
+- Atalhos `G/H` para adiantar ou atrasar legendas em passos de 50 ms.
+- Atalhos `J/K` para adiantar ou atrasar o áudio em passos de 50 ms.
+- `Ctrl++` e `Ctrl+-` para ajustar o tamanho das legendas.
+- `Ctrl+0` para restaurar o tamanho original das legendas.
+- Balões de ajuda nas configurações indicando os atalhos de sincronização.
 
 ## Principais recursos
 
@@ -33,7 +41,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.38.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.39.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
