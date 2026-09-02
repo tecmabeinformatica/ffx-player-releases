@@ -8,7 +8,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ### FFX Player 1.0.38
 
-[Baixar o instalador](FFXPlayer-Setup-1.0.38.exe)
+[Baixar o instalador diretamente](https://github.com/tecmabeinformatica/ffx-player-releases/raw/refs/heads/main/FFXPlayer-Setup-1.0.38.exe)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
