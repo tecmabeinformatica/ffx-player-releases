@@ -6,21 +6,22 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.41
+### FFX Player 1.0.42
 
-[Baixar o instalador diretamente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.41/FFXPlayer-Setup-1.0.41.exe)
+[Baixar sempre a versão mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest/download/FFXPlayer-Setup.exe)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `26570571D253A5988BECFA05E490EEBEC0994766E6DC8928C277D7213466D43F`
+- SHA-256: `24CE2C1A935530A345EA4162C6D47861CA8A31C9B91578222A3FB51E5BCDE715`
 
-## Novidades da versão 1.0.41
+## Novidades da versão 1.0.42
 
-- Compatibilidade global com botões multimídia físicos de Play/Pause, Stop, Anterior e Próximo, inclusive com o FFX Player em segundo plano.
-- Os atalhos multimídia são registrados enquanto existe uma mídia carregada e liberados ao limpar a playlist ou fechar o player.
-- O botão Stop agora mantém a mídia carregada e retorna ao início, permitindo continuar normalmente com Play.
-- Volume e mute permanecem sob o controle nativo do Windows.
+- Verificação manual de atualizações, executada somente quando o usuário clicar no ícone ao lado da versão.
+- Aviso quando existe uma versão nova, com opção de abrir a página de download.
+- Código próprio do FFX Player disponibilizado sob a Licença MIT.
+- Página de código aberto e licenças acessível pelas configurações.
+- Avisos e textos das licenças das dependências incluídos no instalador.
 
 ## Principais recursos
 
@@ -35,6 +36,7 @@ Instaladores oficiais do FFX Player para Windows.
 - Sincronização de áudio e legendas.
 - Atalhos de sincronização e ajuste do tamanho das legendas.
 - Integração global com botões multimídia físicos do teclado.
+- Verificação manual de atualizações, sem rotinas automáticas de rede.
 - Detecção HDR para Windows 10 e 11, com indicação de HDR nativo ou conversão HDR para SDR.
 - Interface em Português (Brasil) e Inglês.
 - Associação opcional de formatos de mídia durante a instalação.
@@ -42,7 +44,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.41.exe`.
+1. Baixe `FFXPlayer-Setup.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
