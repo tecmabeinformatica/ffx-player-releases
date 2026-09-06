@@ -6,21 +6,21 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.43
+### FFX Player 1.0.44
 
 [Baixar sempre a versão mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest/download/FFXPlayer-Setup.exe)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `7907EA381FF74760FC1D61AE8C965FF5CF2E8337C513E065BEF3EC1B322752B2`
+- SHA-256: `C7BF6F283C4B9C7154E3430B43535581B9C1034039CBBE1F953B38320AF48B11`
 
-## Novidades da versão 1.0.43
+## Novidades da versão 1.0.44
 
-- Compatibilidade ampliada para 46 extensões de áudio e vídeo, incluindo VOB, WMA, WMV, FLV, MTS, AC-3, DTS e APE.
-- Os novos formatos participam da abertura, arrastar e soltar, playlists e sequência automática da pasta.
-- Escolha persistente da cor das legendas nas configurações.
-- Ajuste vertical das legendas com `Alt+↑` e `Alt+↓`; `Alt+0` restaura a posição original.
+- Memória individual da faixa de áudio e legenda escolhida em cada arquivo.
+- Modo opcional para aplicar o último idioma escolhido a arquivos novos, com fallback seguro quando ele não existir.
+- Reconhecimento de variações de idioma como `por`, `pt`, `pt-BR`, `eng`, `en` e `en-US`.
+- Sombra opcional e persistente para legendas de texto.
 
 ## Principais recursos
 
