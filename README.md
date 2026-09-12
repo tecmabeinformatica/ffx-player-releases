@@ -6,19 +6,20 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.45
+### FFX Player 1.0.46
 
 [Baixar sempre a versão mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest/download/FFXPlayer-Setup.exe)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `AB5F772E7914D5508919A730B8E884339F129C417DBF6A685BA2497A784BE62E`
+- SHA-256: `54C78380F1FE16AB47233100A4D2373CF3B91F164104075D793E61889E92B4BC`
 
-## Novidades da versão 1.0.45
+## Novidades da versão 1.0.46
 
-- Correção da reprodução automática ao abrir uma nova mídia depois que a playlist anterior chega ao fim.
-- Novos arquivos abertos pelo Explorer, arrastar e soltar ou instância única deixam corretamente o estado de pausa herdado.
+- O destino padrão passou a ser `C:\Program Files\FFX Apps\FFX Player`.
+- A desinstalação remove somente a pasta do FFX Player e preserva a pasta compartilhada `FFX Apps`.
+- Para migrar uma instalação antiga, desinstale a versão anterior antes de instalar a 1.0.46.
 
 ## Principais recursos
 
