@@ -6,22 +6,22 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.63
+### FFX Player 1.0.70
 
-[Baixar o instalador 1.0.63](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.63/FFXPlayer-Setup-1.0.63.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.70](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.70/FFXPlayer-Setup-1.0.70.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `70F5BFBB57806421AB92AB72179C780646226FE4DD2C1A80DF3201DEA29A3E9A`
+- SHA-256: `37259436AB275DBCFC06B0A6DD16B9B02B4F99545EEA6C6803D8282FE7C74BD9`
 
-## Novidades da versão 1.0.63
+## Novidades da versão 1.0.70
 
-- Opção **Sempre no topo** e retorno do player à frente ao abrir outro arquivo pelo Windows.
-- Prevenção da suspensão do Windows durante a reprodução de vídeo.
-- Abertura de legendas externas, ajuste da velocidade e seleção da saída de áudio.
-- Menu de contexto reorganizado, com **Abrir → Arquivo/Pasta** disponível mesmo sem mídia carregada.
-- Removidas as opções experimentais de DVD/Blu-ray. Arquivos `.vob` e `.m2ts` continuam abrindo normalmente como vídeos comuns.
+- Capítulos marcados na barra de tempo, com título e horário ao manter o mouse sobre ela.
+- Navegação por capítulos opcional, ligada por padrão, integrada aos botões Anterior/Próximo.
+- Suavização de movimento opcional, desligada por padrão; não utiliza interpolação por estimativa de movimento para 60 fps.
+- Correções de deformações rápidas ao abrir e recolher configurações, playlist e equalizador.
+- Ajustes de renderização da interface e restauração do cursor sobre os controles.
 
 ## Principais recursos
 
@@ -45,7 +45,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.63.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.70.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
