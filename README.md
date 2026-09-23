@@ -6,22 +6,21 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.70
+### FFX Player 1.0.71
 
-[Baixar o instalador 1.0.70](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.70/FFXPlayer-Setup-1.0.70.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.71](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.71/FFXPlayer-Setup-1.0.71.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `37259436AB275DBCFC06B0A6DD16B9B02B4F99545EEA6C6803D8282FE7C74BD9`
+- SHA-256: `3F78906221A26646B48D9531D835247026A8DF2AAB536EE597333C7CCCE15D79`
 
-## Novidades da versão 1.0.70
+## Novidades da versão 1.0.71
 
-- Capítulos marcados na barra de tempo, com título e horário ao manter o mouse sobre ela.
-- Navegação por capítulos opcional, ligada por padrão, integrada aos botões Anterior/Próximo.
-- Suavização de movimento opcional, desligada por padrão; não utiliza interpolação por estimativa de movimento para 60 fps.
-- Correções de deformações rápidas ao abrir e recolher configurações, playlist e equalizador.
-- Ajustes de renderização da interface e restauração do cursor sobre os controles.
+- Balões de ajuda nas configurações em português e inglês.
+- Texto simplificado para a opção **Suavizar movimento do vídeo**.
+- Explicações curtas das opções, mantendo os atalhos de sincronização e legendas.
+- Textos com largura limitada e quebra de linha para facilitar a leitura.
 
 ## Principais recursos
 
@@ -45,7 +44,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.70.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.71.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
