@@ -6,21 +6,21 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.71
+### FFX Player 1.0.73
 
-[Baixar o instalador 1.0.71](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.71/FFXPlayer-Setup-1.0.71.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.73](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.73/FFXPlayer-Setup-1.0.73.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `3F78906221A26646B48D9531D835247026A8DF2AAB536EE597333C7CCCE15D79`
+- SHA-256: `2875425C618403EB49039F9617CD500EF885C498C2061155F749A34AC84EE40F`
 
-## Novidades da versão 1.0.71
+## Novidades da versão 1.0.73
 
-- Balões de ajuda nas configurações em português e inglês.
-- Texto simplificado para a opção **Suavizar movimento do vídeo**.
-- Explicações curtas das opções, mantendo os atalhos de sincronização e legendas.
-- Textos com largura limitada e quebra de linha para facilitar a leitura.
+- Integração com os controles de mídia do Windows: título, artista, capa quando disponível e botões de reprodução no painel do sistema.
+- Temporizador de uso único nas configurações: 30, 60, 90 minutos, tempo personalizado ou fim da playlist.
+- Ao terminar, o temporizador pode pausar, fechar o player ou iniciar uma contagem cancelável de 60 segundos para desligar o Windows.
+- O fim da playlist exige a repetição desligada; ativar repetição depois cancela esse temporizador.
 
 ## Principais recursos
 
@@ -36,6 +36,7 @@ Instaladores oficiais do FFX Player para Windows.
 - Atalhos de sincronização e ajuste do tamanho das legendas.
 - Cor e posição vertical das legendas configuráveis.
 - Integração global com botões multimídia físicos do teclado.
+- Controles de mídia do Windows e temporizador opcional.
 - Verificação manual de atualizações, sem rotinas automáticas de rede.
 - Detecção HDR para Windows 10 e 11, com indicação de HDR nativo ou conversão HDR para SDR.
 - Interface em Português (Brasil) e Inglês.
@@ -44,7 +45,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.71.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.73.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
