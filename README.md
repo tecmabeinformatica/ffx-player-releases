@@ -6,21 +6,21 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.74
+### FFX Player 1.0.75
 
-[Baixar o instalador 1.0.74](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.74/FFXPlayer-Setup-1.0.74.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.75](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.75/FFXPlayer-Setup-1.0.75.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `44C2EA38BE93F5FCA08791609C15067AF85C0674856418F442DC82B9DC0C270F`
+- SHA-256: `A039030827DFED5AEF57DDE30514A63DBB0567895EEAEC9559D2C516012BC635`
 
-## Novidades da versão 1.0.74
+## Novidades da versão 1.0.75
 
-- Botões **Anterior**, **Reproduzir/Pausar** e **Próximo** na miniatura da barra de tarefas, inclusive quando o player está minimizado.
-- O botão central alterna entre reproduzir e pausar conforme o estado atual; os botões laterais são desativados quando não há destino disponível.
-- A navegação pela miniatura respeita a playlist, a ordem aleatória, a repetição e os capítulos, como os controles da janela principal.
-- Dicas dos botões em português ou inglês conforme o idioma selecionado.
+- Entrada direta no modo musical em tela cheia com fundo preto, capa pequena, título e relógio.
+- Remove a espera de três segundos, a ampliação da capa e o esmaecimento inicial que causavam uma piscada durante a transição.
+- Prepara o layout musical antes de redimensionar a janela, tornando a entrada mais rápida e suave.
+- Mantém o esmaecimento periódico e a mudança de posição para ajudar a evitar burn-in.
 
 ## Principais recursos
 
@@ -46,7 +46,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.74.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.75.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
