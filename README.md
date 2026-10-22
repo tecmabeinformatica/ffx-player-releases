@@ -6,28 +6,27 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.75
+### FFX Player 1.0.76
 
-[Baixar o instalador 1.0.75](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.75/FFXPlayer-Setup-1.0.75.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.76](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.76/FFXPlayer-Setup-1.0.76.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `A039030827DFED5AEF57DDE30514A63DBB0567895EEAEC9559D2C516012BC635`
+- SHA-256: `7EDF72B8617124BE4CF1490F33808BB8B97D32A5BE9FC09EC6AC5E6A342BA785`
 
-## Novidades da versão 1.0.75
+## Novidades da versão 1.0.76
 
-- Entrada direta no modo musical em tela cheia com fundo preto, capa pequena, título e relógio.
-- Remove a espera de três segundos, a ampliação da capa e o esmaecimento inicial que causavam uma piscada durante a transição.
-- Prepara o layout musical antes de redimensionar a janela, tornando a entrada mais rápida e suave.
-- Mantém o esmaecimento periódico e a mudança de posição para ajudar a evitar burn-in.
+- Corrige o ocultamento automático dos controles em tela cheia ao usar dois ou mais monitores.
+- A barra do player desaparece normalmente mesmo quando o ponteiro está parado ou em movimento em outra tela.
+- O cursor continua sendo ocultado somente quando está sobre a área de vídeo do FFX Player.
 
 ## Principais recursos
 
 - Reprodução universal de áudio e vídeo com libmpv.
 - Playlist, sequência automática da pasta, shuffle e repeat.
 - Mini player persistente.
-- Tela cheia com controles ocultados automaticamente.
+- Tela cheia com controles ocultados automaticamente, inclusive em configurações com vários monitores.
 - Seleção de áudio, legendas, proporção e velocidade.
 - Equalizador de 10 bandas com presets.
 - Pass-through de áudio e fallback para formatos incompatíveis.
@@ -46,7 +45,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.75.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.76.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
