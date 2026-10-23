@@ -6,21 +6,21 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.77
+### FFX Player 1.0.78
 
-[Baixar o instalador 1.0.77](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.77/FFXPlayer-Setup-1.0.77.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.78](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.78/FFXPlayer-Setup-1.0.78.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `EF4C85E4592F32A73E7178414762CF1B95453A8F135D870DEFE10F4BB36DDBE7`
+- SHA-256: `5836F03FDE773A44631B1061BC2C616B82474B87840EE9FD8F0502E8F61BDC37`
 
-## Novidades da versão 1.0.77
+## Novidades da versão 1.0.78
 
-- Separa claramente o código proprietário do FFX Player das licenças dos componentes de terceiros.
-- Substitui o antigo link de código aberto por uma página pública exclusiva de licenças e avisos legais.
-- Inclui no instalador os avisos correspondentes a libmpv, FFmpeg, .NET Runtime e WPF.
-- Mantém o código-fonte do FFX Player em repositório privado.
+- O pass-through é reinicializado corretamente independentemente da ordem entre selecionar a saída e ativar o recurso.
+- Trocar a saída, a faixa de áudio ou retornar à velocidade normal reaplica a verificação de compatibilidade e o fallback para PCM.
+- O indicador de áudio permanece visível para formatos codificados e faixas multicanal.
+- Azul confirma pass-through compatível ou todos os canais preservados; laranja informa conversão, redução para PCM ou compatibilidade ainda não confirmada.
 
 ## Principais recursos
 
@@ -31,6 +31,7 @@ Instaladores oficiais do FFX Player para Windows.
 - Seleção de áudio, legendas, proporção e velocidade.
 - Equalizador de 10 bandas com presets.
 - Pass-through de áudio e fallback para formatos incompatíveis.
+- Indicador de áudio multicanal com confirmação visual da capacidade da saída e dos canais efetivamente reproduzidos.
 - Retomada de vídeos longos.
 - Sincronização de áudio e legendas.
 - Atalhos de sincronização e ajuste do tamanho das legendas.
@@ -46,7 +47,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.77.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.78.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
