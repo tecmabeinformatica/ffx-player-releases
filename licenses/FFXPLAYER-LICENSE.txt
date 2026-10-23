@@ -1,0 +1,13 @@
+FFX PLAYER - AVISO DE LICENÇA
+
+Copyright (c) 2026 Tecmabe Informática. Todos os direitos reservados.
+
+O FFX Player e seu código próprio são software proprietário. A disponibilização
+do instalador permite a instalação e o uso do aplicativo, mas não concede acesso
+ao código-fonte nem autorização para copiar, modificar, sublicenciar ou distribuir
+o código próprio do FFX Player.
+
+Este aviso não altera os direitos concedidos pelas licenças dos componentes de
+terceiros distribuídos com o aplicativo. Esses componentes permanecem sujeitos
+às licenças de seus respectivos autores, disponíveis na pasta "licenses" da
+instalação e na página pública de licenças do FFX Player.

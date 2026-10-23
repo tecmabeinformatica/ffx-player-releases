@@ -51,8 +51,8 @@ Instaladores oficiais do FFX Player para Windows.
 
 O instalador ainda não possui assinatura digital comercial. Dependendo das configurações do Windows, o SmartScreen pode solicitar confirmação antes da execução.
 
-## Código-fonte
+## Licenças e avisos legais
 
-O código está disponível em [ffx-player-source](https://github.com/tecmabeinformatica/ffx-player-source).
+O código próprio do FFX Player é proprietário. As licenças, os avisos e as informações sobre os componentes de terceiros estão disponíveis em [Licenças e avisos legais](LICENSES.md).
 
 Site oficial: [www.ffxapps.com.br](https://www.ffxapps.com.br/)
