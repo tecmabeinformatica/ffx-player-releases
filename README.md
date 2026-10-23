@@ -6,20 +6,21 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Versão atual
 
-### FFX Player 1.0.76
+### FFX Player 1.0.77
 
-[Baixar o instalador 1.0.76](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.76/FFXPlayer-Setup-1.0.76.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
+[Baixar o instalador 1.0.77](https://github.com/tecmabeinformatica/ffx-player-releases/releases/download/v1.0.77/FFXPlayer-Setup-1.0.77.exe) · [Ver a release mais recente](https://github.com/tecmabeinformatica/ffx-player-releases/releases/latest)
 
 - Plataforma: Windows x64.
 - Sistemas: Windows 10 versão 2004 ou superior e Windows 11.
 - Instalação: Inno Setup 6, pacote independente do .NET Runtime.
-- SHA-256: `7EDF72B8617124BE4CF1490F33808BB8B97D32A5BE9FC09EC6AC5E6A342BA785`
+- SHA-256: `EF4C85E4592F32A73E7178414762CF1B95453A8F135D870DEFE10F4BB36DDBE7`
 
-## Novidades da versão 1.0.76
+## Novidades da versão 1.0.77
 
-- Corrige o ocultamento automático dos controles em tela cheia ao usar dois ou mais monitores.
-- A barra do player desaparece normalmente mesmo quando o ponteiro está parado ou em movimento em outra tela.
-- O cursor continua sendo ocultado somente quando está sobre a área de vídeo do FFX Player.
+- Separa claramente o código proprietário do FFX Player das licenças dos componentes de terceiros.
+- Substitui o antigo link de código aberto por uma página pública exclusiva de licenças e avisos legais.
+- Inclui no instalador os avisos correspondentes a libmpv, FFmpeg, .NET Runtime e WPF.
+- Mantém o código-fonte do FFX Player em repositório privado.
 
 ## Principais recursos
 
@@ -45,7 +46,7 @@ Instaladores oficiais do FFX Player para Windows.
 
 ## Instalação
 
-1. Baixe `FFXPlayer-Setup-1.0.76.exe`.
+1. Baixe `FFXPlayer-Setup-1.0.77.exe`.
 2. Execute o instalador.
 3. Se desejar, marque a opção final para abrir as configurações de aplicativos padrão do Windows.
 
